@@ -1,4 +1,4 @@
-# Videogame Sales & Ratings Analysis
+# Videogame Sales & Ratings Analysis - [Notebook](https://github.com/jaysic470/Videogame-SDA/blob/main/Videogame-SDA.ipynb)
 
 This project explores patterns and insights in the video game industry using sales and user rating data. It was completed as part of a structured learning curriculum focused on data preprocessing, analysis, visualization, and hypothesis testing.
 
